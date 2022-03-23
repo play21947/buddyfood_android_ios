@@ -1,0 +1,3 @@
+setting:{
+    domain: 'hello'
+}
